@@ -1,2 +1,2 @@
 # cpp_fun
-fun c++ code
+code for MIT IAP class on c/c++
